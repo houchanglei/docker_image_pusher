@@ -1,1 +1,1 @@
-docker.io/haroldli/xiaoya-tvbox
+--platform=linux/arm64 docker.io/haroldli/xiaoya-tvbox

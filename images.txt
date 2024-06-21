@@ -1,1 +1,1 @@
-haroldli/xiaoya-tvbox
+docker.io/haroldli/xiaoya-tvbox
